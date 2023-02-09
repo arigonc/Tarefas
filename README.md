@@ -1,2 +1,2 @@
 # Tarefas
-Este é um sistema simples de organização de tarefas, sendo possível cadastrar, editar e remover.
+Este é um aplicativo simples de organização de tarefas, sendo possível cadastrar, editar e remover.
